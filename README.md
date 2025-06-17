@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://affiliate.postiz.com">
+  <a href="https://affiliate.somapost.com">
     <img src="https://github.com/user-attachments/assets/af9f47b3-e20c-402b-bd11-02f39248d738" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://postiz.com/" target="_blank">
+  <a href="https://somapost.com/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311">
-    <img alt="Postiz Logo" src="https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99" width="280"/>
+    <img alt="SomaPost Logo" src="https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99" width="280"/>
   </picture>
   </a>
 </p>
@@ -22,46 +22,46 @@
 <div align="center">
   <strong>
   <h2>Your ultimate AI social media scheduling tool</h2><br />
-  <a href="https://postiz.com">Postiz</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
+  <a href="https://somapost.com">SomaPost</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
   </strong>
-  Postiz offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
+  SomaPost offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
 </div>
 
 <div class="flex" align="center">
   <br />
-  <img alt="Instagram" src="https://postiz.com/svgs/socials/Instagram.svg" width="32">
-  <img alt="Youtube" src="https://postiz.com/svgs/socials/Youtube.svg" width="32">
-  <img alt="Dribbble" src="https://postiz.com/svgs/socials/Dribbble.svg" width="32">
-  <img alt="Linkedin" src="https://postiz.com/svgs/socials/Linkedin.svg" width="32">
-  <img alt="Reddit" src="https://postiz.com/svgs/socials/Reddit.svg" width="32">
-  <img alt="TikTok" src="https://postiz.com/svgs/socials/TikTok.svg" width="32">
-  <img alt="Facebook" src="https://postiz.com/svgs/socials/Facebook.svg" width="32">
-  <img alt="Pinterest" src="https://postiz.com/svgs/socials/Pinterest.svg" width="32">
-  <img alt="Threads" src="https://postiz.com/svgs/socials/Threads.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/X.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Slack.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Discord.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Mastodon.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Bluesky.svg" width="32">
+  <img alt="Instagram" src="https://somapost.com/svgs/socials/Instagram.svg" width="32">
+  <img alt="Youtube" src="https://somapost.com/svgs/socials/Youtube.svg" width="32">
+  <img alt="Dribbble" src="https://somapost.com/svgs/socials/Dribbble.svg" width="32">
+  <img alt="Linkedin" src="https://somapost.com/svgs/socials/Linkedin.svg" width="32">
+  <img alt="Reddit" src="https://somapost.com/svgs/socials/Reddit.svg" width="32">
+  <img alt="TikTok" src="https://somapost.com/svgs/socials/TikTok.svg" width="32">
+  <img alt="Facebook" src="https://somapost.com/svgs/socials/Facebook.svg" width="32">
+  <img alt="Pinterest" src="https://somapost.com/svgs/socials/Pinterest.svg" width="32">
+  <img alt="Threads" src="https://somapost.com/svgs/socials/Threads.svg" width="32">
+  <img alt="X" src="https://somapost.com/svgs/socials/X.svg" width="32">
+  <img alt="X" src="https://somapost.com/svgs/socials/Slack.svg" width="32">
+  <img alt="X" src="https://somapost.com/svgs/socials/Discord.svg" width="32">
+  <img alt="X" src="https://somapost.com/svgs/socials/Mastodon.svg" width="32">
+  <img alt="X" src="https://somapost.com/svgs/socials/Bluesky.svg" width="32">
 </div>
 
 <p align="center">
   <br />
-  <a href="https://docs.postiz.com" rel="dofollow"><strong>Explore the docs »</strong></a>
+  <a href="https://docs.somapost.com" rel="dofollow"><strong>Explore the docs »</strong></a>
   <br />
 
   <br />
-  <a href="https://youtube.com/@postizofficial" rel="dofollow"><strong>Watch the YouTube Tutorials»</strong></a>
+  <a href="https://youtube.com/@somapost" rel="dofollow"><strong>Watch the YouTube Tutorials»</strong></a>
   <br />
 
   <br/>
-    <a href="https://platform.postiz.com">Register</a>
+    <a href="https://platform.somapost.com">Register</a>
     ·
-    <a href="https://discord.postiz.com">Join Our Discord (devs only)</a>
+    <a href="https://discord.somapost.com">Join Our Discord (devs only)</a>
     ·
-    <a href="https://twitter.com/getpostiz">X</a>
+    <a href="https://twitter.com/getsomapost">X</a>
     ·
-    <a href="https://gitroom.com">Gitroom</a>
+    <a href="https://somapost.com">SomaPost</a>
     ·
     <a href="https://git.sn/telegram">Telegram (Crypto)</a>
   </p>
@@ -97,9 +97,9 @@
 
 ## Quick Start
 
-To have the project up and running, please follow the [Quick Start Guide](https://docs.postiz.com/quickstart)
+To have the project up and running, please follow the [Quick Start Guide](https://docs.somapost.com/quickstart)
 
-## Invest in the Postiz Coin :)
+## Invest in the SomaPost Coin :)
 
 DMsTbeCfX1crgAse5tver98KAMarPWeP3d6U3Gmmpump
 
@@ -110,5 +110,5 @@ This repository's source code is available under the [AGPL-3.0 license](LICENSE)
 <br /><br /><br />
 
 <p align="center">
-  <a href="https://www.g2.com/products/postiz/take_survey" target="blank"><img alt="g2" src="https://github.com/user-attachments/assets/892cb74c-0b49-4589-b2f5-fbdbf7a98f66" /></a>
+  <a href="https://www.g2.com/products/somapost/take_survey" target="blank"><img alt="g2" src="https://github.com/user-attachments/assets/892cb74c-0b49-4589-b2f5-fbdbf7a98f66" /></a>
 </p>
